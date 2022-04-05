@@ -23,13 +23,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![screenshot](./screenshot.png)
 
 
 ### Links
 
 - Solution URL: [Github Repository](https://github.com/HakimRaissi/nft-card-component)
-- Live Site URL: [Live Demo]()
+- Live Site URL: [Live Demo](https://hakimraissi.github.io/nft-card-component/)
 
 
 
